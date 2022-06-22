@@ -1,8 +1,14 @@
 Movie-quiz
 ============================================
 
-### Play url
+## Play url
 https://mi-gongan.github.io/movie_quiz/Home
+
+
+## Contributors
+
+![image](https://user-images.githubusercontent.com/33277896/175013958-b1a6ec20-61da-4351-adb3-7e0480a40f01.png)
+
 
 
 ## Intro
