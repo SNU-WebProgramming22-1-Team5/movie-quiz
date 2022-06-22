@@ -27,7 +27,7 @@ https://mi-gongan.github.io/movie_quiz/Home
 빠르게 풀수록, 많이 맞출수록 고득점이 가능합니다.
 
 
-### Functions & Pages
+## Functions & Pages
 
 
  - /Home :
@@ -58,7 +58,7 @@ https://mi-gongan.github.io/movie_quiz/Home
  
  ![image](https://user-images.githubusercontent.com/33277896/174989530-3ce9b629-84b0-406f-8ef8-ab6ae2ee897f.png)
 
-### What used for this
+## What used for this
 
 - React for front-end
 - Firestore for back-end
